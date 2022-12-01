@@ -1,1 +1,1 @@
-print absolute pathname
+cd: displays content of current directory
