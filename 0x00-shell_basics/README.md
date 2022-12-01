@@ -1,1 +1,1 @@
-ls -l: displays current directory in long format
+ls -la: displays current directory content including hidden files
