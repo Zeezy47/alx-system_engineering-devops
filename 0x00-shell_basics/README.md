@@ -1,1 +1,1 @@
-cd: displays content of current directory
+ls -l: displays current directory in long format
