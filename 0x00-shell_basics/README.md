@@ -1,1 +1,1 @@
-script prints filename iamfile in /tmp directory
+Create a symbolic link to /bin/ls, named __ls__
