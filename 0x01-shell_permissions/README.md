@@ -1,1 +1,1 @@
-changes the owner of the file hello to the user betty.
+ adds execute permission to the owner of the file hello.
