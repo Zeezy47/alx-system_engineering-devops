@@ -1,1 +1,1 @@
-ls -l -a: displays long format with user and group IDs displayed numerically and hidden files
+script creates a directory named my_first_directory in /tmp/ directory
