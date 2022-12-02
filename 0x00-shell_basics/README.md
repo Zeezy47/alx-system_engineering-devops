@@ -1,1 +1,1 @@
-lists all files and in the boot directory in long format
+script prints filename iamfile in /tmp directory
