@@ -1,1 +1,1 @@
-adds /action to the PATH as the last directory the sell looks into
+ counts the number of directories in the PATH.
