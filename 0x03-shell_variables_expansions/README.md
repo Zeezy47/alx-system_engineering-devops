@@ -1,1 +1,1 @@
- prints hello user, where user is the current Linux user.
+adds /action to the PATH as the last directory the sell looks into
